@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ana Laura Maieski
+# Ana Laura Maieski
 
 **`Desenvolvedora FullStack em formação`**
 
